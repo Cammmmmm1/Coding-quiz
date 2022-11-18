@@ -1,9 +1,15 @@
-README.md
 Time Code Quiz - Web APIs Challenge
+
+
+
 Description
+
 A timed quiz challengethat is multiple choice, for bsaic coding and records highscores.
 
 User Story
+
+
+
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
